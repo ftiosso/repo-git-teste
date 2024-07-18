@@ -15,3 +15,6 @@ git commit
 git checkout -b
 git checkout
 git merge
+
+git branch
+git branch -d
