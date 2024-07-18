@@ -6,3 +6,12 @@ kervini alterou para a produção - por isso fez direto na main...
 kervini alterou para a produção - por isso fez direto na main...
 
 alteração necessária de urgencia.
+
+git init
+git status
+git add .
+git commit
+
+git checkout -b
+git checkout
+git merge
